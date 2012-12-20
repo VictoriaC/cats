@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 def test():
 	print("Cats are:")
 	print("\tPretty Okay")
@@ -6,3 +7,4 @@ def test():
 	print("\tSoft")
 	print("\tStripy")
 	print("\tCute")
+test()
